@@ -43,7 +43,7 @@ function Animal(name, species, food) {
   }
 }
 
-//Code Here
+const animal1 = new Animal('lola', 'pug', 'carrots')
 
 ////////// PROBLEM 3 //////////
 
